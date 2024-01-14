@@ -1,0 +1,4 @@
+3
+Arthur	Morgan	Qwerty	1	1	1991	M	2	2	2012	Market	Cashier	0970671245
+Joanne	Marston	Wasd	3	3	1993	F	4	4	2014	Hospital	Nurse	0670979865
+Mika	Bells	Asdfgh	5	5	1995	M	6	6	2016	Bank	Sequrity	0930632356
